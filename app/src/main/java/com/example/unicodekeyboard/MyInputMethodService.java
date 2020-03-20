@@ -44,7 +44,6 @@ public class MyInputMethodService extends InputMethodService implements Keyboard
                 }
                 break;
             case (0):
-                //TODO get some code working here to convert the string to a unicode char
 /*                String out;
                 try {
                     byte[] tmp = hexStringToByteArray(input);
